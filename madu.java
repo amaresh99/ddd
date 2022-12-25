@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 sus updated.....
+in development branch
+>>>>>>> development
 now updated...
-this this this
 this file contains the madu.java
 
